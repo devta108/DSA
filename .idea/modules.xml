@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array and Strings/Array and Strings.iml" filepath="$PROJECT_DIR$/Array and Strings/Array and Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitManipulation/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random/Random.iml" filepath="$PROJECT_DIR$/Random/Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Insertion/Sorting.iml" filepath="$PROJECT_DIR$/Insertion/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack And Queue/Stack And Queue.iml" filepath="$PROJECT_DIR$/Stack And Queue/Stack And Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+    </modules>
+  </component>
+</project>
