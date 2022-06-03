@@ -1,2 +1,2 @@
-public class Radix {
+public class RadixSort {
 }

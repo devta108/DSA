@@ -1,2 +1,2 @@
-public class Quick {
+public class QuickSort {
 }

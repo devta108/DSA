@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class WordsScore {
     public static int solution(String[] words, int[] farr, int[] score, int idx) {
         if(idx == words.length){
             return 0;

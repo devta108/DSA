@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Hashtable;
+
 /**
  * Given head, the head of a linked list, determine if the linked list has a cycle in it.
  *
@@ -12,6 +15,27 @@
 
 public class DetectLoopLL {
     public static void main(String[] args) {
-
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        for (int i = 0; i < 10; i++) {
+            list.add( i*10 );
+        }
+        System.out.println(list);
+        int mid  = Math.round( (float)(list.size()/2) );
+        System.out.println(mid);
+        System.out.println(list.get( mid ));
+//        Less space
+        /*if(head==null || head.next == null){
+            return false;
+        }
+        ListNode fast = head;
+        // ListNode slow = head;
+        while(fast.next!= null && fast.next.next != null){
+            fast = fast.next.next;
+            head = head.next;
+            if(fast == head){
+                return true;
+            }
+        }
+        return false;*/
     }
 }
